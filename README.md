@@ -15,21 +15,21 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 ### Informations sur le dépôt
 
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/CIEL2) 
-![GitHub forks](https://img.shields.io/github/forks/boudjelaba/CIEL2)
-![GitHub watchers](https://img.shields.io/github/watchers/boudjelaba/CIEL2)
+[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git) 
+![GitHub forks](https://img.shields.io/github/forks/boudjelaba/template-depot-git)
+![GitHub watchers](https://img.shields.io/github/watchers/boudjelaba/template-depot-git)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Créé le](https://img.shields.io/github/created-at/boudjelaba/CIEL2?label=Créé%20le)
-![Dernier commit](https://img.shields.io/github/last-commit/boudjelaba/CIEL2?label=Dernier%20commit)
+![Créé le](https://img.shields.io/github/created-at/boudjelaba/template-depot-git?label=Créé%20le)
+![Dernier commit](https://img.shields.io/github/last-commit/boudjelaba/template-depot-git?label=Dernier%20commit)
 [![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
 
-![Taille du repo](https://img.shields.io/github/repo-size/boudjelaba/CIEL2?label=Taille%20du%20repo)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/CIEL2)
-![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/CIEL2)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/boudjelaba/CIEL2)
-[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/CIEL2/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/CIEL2/node-chat)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/CIEL2))
+![Taille du repo](https://img.shields.io/github/repo-size/boudjelaba/template-depot-git?label=Taille%20du%20repo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
+![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/boudjelaba/template-depot-git)
+[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git/node-chat)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git))
 
 ---
 
